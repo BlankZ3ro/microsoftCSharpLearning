@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jbmcmath\\Desktop\\James's Projects\\CsharpProjects\\TestProject\\TestProject.csproj",
+      "projectUniqueName": "C:\\Users\\jbmcmath\\Documents\\GitHub\\microsoftCSharpLearning\\CsharpProjects\\TestProject\\TestProject.csproj",
       "projectName": "TestProject",
-      "projectPath": "C:\\Users\\jbmcmath\\Desktop\\James's Projects\\CsharpProjects\\TestProject\\TestProject.csproj",
+      "projectPath": "C:\\Users\\jbmcmath\\Documents\\GitHub\\microsoftCSharpLearning\\CsharpProjects\\TestProject\\TestProject.csproj",
       "packagesPath": "C:\\Users\\jbmcmath\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jbmcmath\\Desktop\\James's Projects\\CsharpProjects\\TestProject\\obj\\",
+      "outputPath": "C:\\Users\\jbmcmath\\Documents\\GitHub\\microsoftCSharpLearning\\CsharpProjects\\TestProject\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jbmcmath\\AppData\\Roaming\\NuGet\\NuGet.Config"
